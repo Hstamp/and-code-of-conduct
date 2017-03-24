@@ -2,7 +2,7 @@
 
 We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees of ANDigital events are expected to show respect and courtesy to other people throughout the event, whether they are officially part of ANDigital or not.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any ANDigital event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event.
+To make clear what is expected, all delegates/attendees, speakers, exhibitors, organisers and volunteers at any ANDigital event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event.
 
 ## The Short Version
 
@@ -28,11 +28,11 @@ Thank you for helping make this a welcoming, friendly user group for all.
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Participants asked to stop any harassing behaviour are expected to comply immediately.
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate for ANDigital events.
 
-If a participant engages in behavior that violates this code of conduct, the user group organisers may take any action they deem appropriate, including warning the offender or expulsion from the user group. Additionally, no refund will be given to the offender for any tickets that may have been purchased to attend the event.
+If a participant engages in behaviour that violates this code of conduct, the user group organisers may take any action they deem appropriate, including warning the offender or expulsion from the user group. Additionally, no refund will be given to the offender for any tickets that may have been purchased to attend the event.
 
 ## Contact Information
 
@@ -62,8 +62,8 @@ interview people about the incident. Staff will assist you in writing the report
 The important information consists of:
 
 - Identifying information (name/badge number) of the participant doing the harassing.
-- The behavior that was in violation.
-- The approximate time of the behavior (if different than the time the report was made).
+- The behaviour that was in violation.
+- The approximate time of the behaviour (if different than the time the report was made).
 - The circumstances surrounding the incident.
 - Other people involved in the incident.
 
@@ -86,8 +86,8 @@ Please make sures that you and other organisers have read this document in its e
 Try to get as much of the incident in writing from the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
 
  - Identifying information (name/badge number) of the participant doing the harassing.
- - The behavior that was in violation.
- - The approximate time of the behavior (if different than the time the report was made).
+ - The behaviour that was in violation.
+ - The approximate time of the behaviour (if different than the time the report was made).
  - The circumstances surrounding the incident.
  - Other people involved in the incident.
 
@@ -119,17 +119,17 @@ Allow the alleged harasser to give their side of the story to the staff. After t
 
 Some things for the staff to consider when dealing with Code of Conduct offenders:
 
-- Warning the harasser to cease their behavior and that any further reports will result in sanctions.
+- Warning the harasser to cease their behaviour and that any further reports will result in sanctions.
 - Requiring that the harasser avoid any interaction with, and physical proximity to, their victim for the remainder of the event.
 - Ending a talk that violates the policy early.
 - Not publishing the video or slides of a talk that violated the policy.
 - Not allowing a speaker who violated the policy to give (further) talks at the event now or in the future.
 - Immediately ending any event volunteer responsibilities and privileges the harasser holds.
-- Requiring that the harasser not volunteer for future events your organization runs (either indefinitely or for a certain time period).
+- Requiring that the harasser not volunteer for future events your organisation runs (either indefinitely or for a certain time period).
 - Requiring that the harasser refund any travel grants and similar they received (this would need to be a condition of the grant at the time of being awarded).
 - Requiring that the harasser immediately leave the event and not return.
 - Banning the harasser from future events (either indefinitely or for a certain time period).
-- Removing a harasser from membership of relevant organizations.
+- Removing a harasser from membership of relevant organisations.
 - Publishing an account of the harassment and calling for the resignation of the harasser from their responsibilities (usually pursued by people without formal authority: may be called for if the harasser is the event leader, or refuses to stand aside from the conflict of interest, or similar, typically event staff have sufficient governing rights over their space that this isn't as useful).
 
 Give accused attendees a place to appeal to if there is one, but in the meantime the report stands. Keep in mind that it is not a good idea to encourage an apology from the harasser.
