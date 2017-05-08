@@ -1,12 +1,12 @@
-# Code of Conduct for ANDigital
+# Code of Conduct for AND Digital
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees of ANDigital events are expected to show respect and courtesy to other people throughout the event, whether they are officially part of ANDigital or not.
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees of AND Digital events are expected to show respect and courtesy to other people throughout the event, whether they are officially part of AND Digital or not.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organisers and volunteers at any ANDigital event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event.
+To make clear what is expected, all delegates/attendees, speakers, exhibitors, organisers and volunteers at any AND Digital event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event and you will be reminded of it at the start of the event.
 
 ## The Short Version
 
-- ANDigital is dedicated to providing a harassment-free user group experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants in any form.
+- AND Digital is dedicated to providing a harassment-free user group experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants in any form.
 
 - All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is *not appropriate* for any venue, including talks and socialising.
 
@@ -14,10 +14,10 @@ To make clear what is expected, all delegates/attendees, speakers, exhibitors, o
 
 - Attendees violating these rules may be asked to leave the event without a refund ( where applicable ) at the sole discretion of the organisers.
 
-In addition to these agreements, ANDigital wants to be a friendly and welcoming place. We encourage all our attendees to act in the following manner:
+In addition to these agreements, AND Digital wants to be a friendly and welcoming place. We encourage all our attendees to act in the following manner:
 
 - Be friendly and patient.
-- Be welcoming towards everyone. This includes new attendees at ANDigital events and especially those who are still learning.
+- Be welcoming towards everyone. This includes new attendees at AND Digital events and especially those who are still learning.
 - Be considerate of others and treat them as you wish to be treated.
 
 In short: *be excellent towards each other.*
@@ -30,19 +30,19 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 Participants asked to stop any harassing behaviour are expected to comply immediately.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate for ANDigital events.
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate for AND Digital events.
 
 If a participant engages in behaviour that violates this code of conduct, the user group organisers may take any action they deem appropriate, including warning the offender or expulsion from the user group. Additionally, no refund will be given to the offender for any tickets that may have been purchased to attend the event.
 
 ## Contact Information
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of event staff / an ANDigital employee, these people will be pointed out to you at the beginning of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of event staff / an AND Digital employee, these people will be pointed out to you at the beginning of the event.
 
 If the matter is especially urgent, please call or contact any of these individuals:
 
--  Joshua Simpson at 07412894759 / jsimpson@andigital.com
+-  Joshua Simpson at 07412894759 / jsimpson@AND Digital.com
 
-ANDigital event staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+AND Digital event staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 ## Procedure for Handling Harassment
 
@@ -50,7 +50,7 @@ If you feel like you are being harassed or feel uncomfortable and would like to 
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
-1\. Keep in mind that all ANDigital staff will be pointed out at the beginning of the event. The staff will also be prepared to handle the incident. All of our staff are informed of this code of conduct policy and guide
+1\. Keep in mind that all AND Digital staff will be pointed out at the beginning of the event. The staff will also be prepared to handle the incident. All of our staff are informed of this code of conduct policy and guide
 for handling harassment at the conference.
 
 2\. Report the harassment incident (preferably in writing) to a staff member. All reports
@@ -71,13 +71,13 @@ The staff are well informed on how to deal with the incident and how to further 
 
 3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request. If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by dialing 999. If you do not have a cell phone, you can simply ask a staff member.
 
-**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. ANDigital requests that they be your first resource when reporting a ANDigital-related incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
+**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. AND Digital requests that they be your first resource when reporting a AND Digital-related incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
 
-If at all possible, all reports should be made directly to the ANDigital organisers mentioned above.
+If at all possible, all reports should be made directly to the AND Digital organisers mentioned above.
 
 ## Staff Procedure for incident handling
 
-All staff for ANDigital will have been briefed on the following procedures for helping you to help with your safety.
+All staff for AND Digital will have been briefed on the following procedures for helping you to help with your safety.
 
 (This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)".)
 
@@ -91,7 +91,7 @@ Try to get as much of the incident in writing from the reporter. If you cannot, 
  - The circumstances surrounding the incident.
  - Other people involved in the incident.
 
-Prepare an initial response to the incident. This initial response is very important and will set the tone for ANDigital. Depending on the severity/details of the incident, please follow these guidelines:
+Prepare an initial response to the incident. This initial response is very important and will set the tone for AND Digital. Depending on the severity/details of the incident, please follow these guidelines:
 
  - If there is any general threat to attendees or the safety of anyone including staff is in doubt, summon security or police.
  - Offer the victim a private place to sit.
